@@ -1,0 +1,14 @@
+.banner {
+    background-color: #F5DEB3;
+    text-align: center;
+}
+
+.banner img{
+    max-width: 80%;
+}
+
+@media (max-width: 1180px) {
+    .banner img {
+      max-width: 100%;
+    }
+  }
